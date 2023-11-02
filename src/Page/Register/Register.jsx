@@ -80,7 +80,7 @@ const Register = () => {
               <div className="form-control mt-6">
                 <input className="btn" type="submit" value="Login" />
               </div>
-              <p className="text-center my-3">Already Have An account? <Link to="/login">Sign In</Link></p>
+              <p className="text-center my-3">Already Have An account? <Link to="/login">Register</Link></p>
             </form>
           </div>
         </div>
